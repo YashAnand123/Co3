@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #F95700FF;
+
+}
+
+.button {
+    background-color: #F95700FF; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 70%;
+    height: 40%;
+    border-radius:8px;
+    margin: 30px,30px,30px,30px;
+    margin-left: 260px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+
+body{
+    background-color:#00A4CCFF;
+}
